@@ -28,9 +28,14 @@
     <ingrid-installer.version>3.6.0-SNAPSHOT</ingrid-installer.version>
     <ingrid-interface-csw.version>3.5.0</ingrid-interface-csw.version>
     <ingrid-iplug.version>3.5.0</ingrid-iplug.version>
+	<ingrid-iplug-dsc.version>3.5.0</ingrid-iplug-dsc.version>
+	<ingrid-iplug-sns.version>3.5.0</ingrid-iplug-sns.version>
     <ingrid-jetspeed-portal.version>3.5.0</ingrid-jetspeed-portal.version>
     <ingrid-portal-utils.version>3.5.0</ingrid-portal-utils.version>
     <ingrid-udk-importer.version>3.5.0</ingrid-udk-importer.version>
+	<ingrid-mdek-api.version>3.5.0</ingrid-mdek-api.version>
+	<ingrid-mdek-services.version>3.5.0</ingrid-mdek-services.version>
+	<ingrid-mdek-import-export.version>3.5.0</ingrid-mdek-import-export.version>
     <ingrid-utils.version>3.5.0</ingrid-utils.version>
     <ingrid-utils-ige.version>3.5.0</ingrid-utils-ige.version>
     <ingrid-utils-geo.version>3.5.0</ingrid-utils-geo.version>
@@ -87,6 +92,16 @@
       </dependency>
       <dependency>
         <groupId>de.ingrid</groupId>
+        <artifactId>ingrid-iplug-dsc</artifactId>
+        <version>${ingrid-iplug-dsc.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>de.ingrid</groupId>
+        <artifactId>ingrid-iplug-sns</artifactId>
+        <version>${ingrid-iplug-sns.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>de.ingrid</groupId>
         <artifactId>ingrid-portal-utils</artifactId>
         <version>${ingrid-portal-utils.version}</version>
       </dependency>
@@ -94,6 +109,21 @@
         <groupId>de.ingrid</groupId>
         <artifactId>ingrid-udk-importer</artifactId>
         <version>${ingrid-udk-importer.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>de.ingrid.mdek</groupId>
+        <artifactId>ingrid-mdek-api</artifactId>
+        <version>${ingrid-mdek-api.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>de.ingrid.mdek</groupId>
+        <artifactId>ingrid-mdek-services</artifactId>
+        <version>${ingrid-mdek-services.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>de.ingrid.mdek</groupId>
+        <artifactId>ingrid-import-export</artifactId>
+        <version>${ingrid-mdek-import-export.version}</version>
       </dependency>
       <dependency>
         <groupId>de.ingrid</groupId>
