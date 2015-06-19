@@ -3,7 +3,7 @@
   <groupId>de.ingrid</groupId>
   <artifactId>ingrid-version-management-pom</artifactId>
   <packaging>pom</packaging>
-  <version>3.6.0</version>
+  <version>3.6.1-SNAPSHOT</version>
   <name>ingrid-version-management-pom</name>
   <description>This pom can be used in all InGrid Components to make sure that the latest versions of dependencies are used.
     Every component should override a new version in its own pom to keep track of the dependencies.
@@ -11,7 +11,7 @@
   <scm>
     <connection>scm:git:git@github.com:informationgrid/ingrid-version-management-pom.git</connection>
     <developerConnection>scm:git:git@github.com:informationgrid/ingrid-version-management-pom.git</developerConnection>
-    <tag>ingrid-version-management-pom-3.6.0</tag>
+    <tag>HEAD</tag>
   </scm>
   
   <properties>
