@@ -32,10 +32,10 @@
 	<ingrid-iplug-sns.version>3.5.0</ingrid-iplug-sns.version>
     <ingrid-jetspeed-portal.version>3.5.0</ingrid-jetspeed-portal.version>
     <ingrid-portal-utils.version>3.5.0</ingrid-portal-utils.version>
-    <ingrid-udk-importer.version>3.5.0</ingrid-udk-importer.version>
-	<ingrid-mdek-api.version>3.5.0</ingrid-mdek-api.version>
-	<ingrid-mdek-services.version>3.5.0</ingrid-mdek-services.version>
-	<ingrid-mdek-import-export.version>3.5.0</ingrid-mdek-import-export.version>
+    <ingrid-udk-importer.version>3.6.1-SNAPSHOT</ingrid-udk-importer.version>
+	<ingrid-mdek-api.version>3.6.1-SNAPSHOT</ingrid-mdek-api.version>
+	<ingrid-mdek-services.version>3.6.1-SNAPSHOT</ingrid-mdek-services.version>
+	<ingrid-mdek-import-export.version>3.6.1-SNAPSHOT</ingrid-mdek-import-export.version>
     <ingrid-utils.version>3.5.0</ingrid-utils.version>
     <ingrid-utils-ige.version>3.5.0</ingrid-utils-ige.version>
     <ingrid-utils-geo.version>3.5.0</ingrid-utils-geo.version>
