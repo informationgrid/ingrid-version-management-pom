@@ -22,10 +22,10 @@
     <ingrid-communication.version>3.5.0</ingrid-communication.version>
     <ingrid-communication-authentication.version>3.5.0</ingrid-communication-authentication.version>
     <ingrid-external-services-api.version>3.5.0</ingrid-external-services-api.version>
-    <ingrid-external-service-sns.version>3.5.0</ingrid-external-service-sns.version>
+    <ingrid-external-service-sns.version>3.6.1-SNAPSHOT</ingrid-external-service-sns.version>
     <ingrid-external-service-wfs.version>3.5.0</ingrid-external-service-wfs.version>
     <ingrid-ibus-client.version>3.5.0</ingrid-ibus-client.version>
-    <ingrid-installer.version>3.6.0</ingrid-installer.version>
+    <ingrid-installer.version>3.6.0.2</ingrid-installer.version>
     <ingrid-interface-csw.version>3.5.0</ingrid-interface-csw.version>
     <ingrid-iplug.version>3.5.0</ingrid-iplug.version>
 	<ingrid-iplug-dsc.version>3.5.0</ingrid-iplug-dsc.version>
@@ -36,7 +36,7 @@
 	<ingrid-mdek-api.version>3.6.1-SNAPSHOT</ingrid-mdek-api.version>
 	<ingrid-mdek-services.version>3.6.1-SNAPSHOT</ingrid-mdek-services.version>
 	<ingrid-mdek-import-export.version>3.6.1-SNAPSHOT</ingrid-mdek-import-export.version>
-    <ingrid-utils.version>3.5.0</ingrid-utils.version>
+    <ingrid-utils.version>3.6.0</ingrid-utils.version>
     <ingrid-utils-ige.version>3.5.0</ingrid-utils-ige.version>
     <ingrid-utils-geo.version>3.5.0</ingrid-utils-geo.version>
   </properties>
